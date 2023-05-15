@@ -1,0 +1,7 @@
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\bin\Debug\AlphabeticLiser.exe.config
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\bin\Debug\AlphabeticLiser.exe
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\bin\Debug\AlphabeticLiser.pdb
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\obj\Debug\AlphabeticLiser.csproj.AssemblyReference.cache
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\obj\Debug\AlphabeticLiser.csproj.CoreCompileInputs.cache
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\obj\Debug\AlphabeticLiser.exe
+C:\Users\Tunahan\source\repos\AlphabeticLiser\AlphabeticLiser\obj\Debug\AlphabeticLiser.pdb
